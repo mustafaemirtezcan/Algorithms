@@ -1,8 +1,10 @@
-# 🧑‍💻Algorithms
+# 🧑‍💻 Algorithms
 
-Java assignments on algorithm design and analysis. Every folder has the assignment description, input files and the source code.
+Java projects 📈 on designing and analyzing algorithms.
 
-- **PA1 - Sorting:** Comb, insertion, shaker, shell and radix sort compared on a traffic-flow dataset, with a runtime analysis report.
-- **PA2 - Dynamic Programming and Greedy:** Maximizes collected scrolls with dynamic programming and minimizes the number of ships with a greedy approach.
-- **PA3 - Alien Flora:** Reads genomes from XML and groups them into clusters.
-- **PA4 - Graphs:** The fastest route across campus combining walking and cart lines, plus a project scheduler that orders tasks by their dependencies.
+- 📊 **PA1 - Sorting:** Five sorting algorithms compared head to head on real traffic data.
+- 💡 **PA2 - Dynamic Programming & Greedy:** Two optimization problems, one solved each way.
+- 🌿 **PA3 - Alien Flora:** Grouping alien plant genomes into families.
+- 🧭 **PA4 - Graphs:** The fastest routes across campus, and scheduling tasks that depend on each other.
+
+📂 Each folder includes the assignment description, input files and the source code.
